@@ -6,7 +6,7 @@ procedure switches is
 	cases: Integer;
 begin
 	Put_Line("Ingrese un número: ");
-	cases: Integer'Value(Ada.Text_IO.Get_Line);
+	cases:= Integer'Value(Ada.Text_IO.Get_Line);
 
 	case cases is
 		when 0 =>
@@ -17,5 +17,5 @@ begin
 			Put_Line("Numeros pares de 10 a 18");
 		when others =>
 			Put_Line("No existe tal número");
-	end case
+	end case;
 end switches;
