@@ -1,0 +1,25 @@
+{
+  "spark": [
+    {
+      "name": "sumab",
+      "sloc": [
+        {
+          "file": "sumab.adb",
+          "line": 3
+        }
+      ],
+      "spark": "no"
+    }
+  ],
+  "flow": [
+  ],
+  "assumptions": [
+  ],
+  "timings": {
+    "globals (advanced)": 1.68875008821487E-02,
+    "flow analysis": 1.99899994186126E-04,
+    "marking": 8.77999991644174E-05,
+    "properties (advanced)": 5.61999986530282E-05,
+    "globals (basic)": 2.39784996956587E-02
+  }
+}

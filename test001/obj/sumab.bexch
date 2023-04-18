@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__sumab.o
+[PROJECT FILES]
+C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr
+20230418042236 c7ac061422ab483c5b79bb2c15e80f83
+[BOUND OBJECT FILES]
+C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\obj\sumab.o
+[GENERATED SOURCE FILES]
+b__sumab.ads
+b__sumab.adb
+b__sumab.ali
+[RESULTING OPTIONS]
+-LC:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\obj\
+-LC:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\obj\
+-LF:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+F:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

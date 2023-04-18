@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__test002.o
+[PROJECT FILES]
+C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\test002.gpr
+20230418170842 39202ffa80ea33b56e1d3ab3472dbcc3
+[BOUND OBJECT FILES]
+C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\obj\test002.o
+[GENERATED SOURCE FILES]
+b__test002.ads
+b__test002.adb
+b__test002.ali
+[RESULTING OPTIONS]
+-LC:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\obj\
+-LC:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\obj\
+-LF:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+F:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
