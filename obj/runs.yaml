@@ -1,16 +1,14 @@
-'2023-04-18T12:08:05.416000':
+'2023-04-18T18:13:09.251000':
   category: GNATprove
   files:
   - C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\obj\gnatprove
-  label: Examine All
+  label: Examine All Sources
   output: 'Phase 1 of 2: generation of Global contracts ...
 
-    sumab.gpr:5:34: "sumab.adb" is not a source of project "sumab"
-
-    gprbuild: problems with main sources
+    test002.adb:15:01: error: end of file expected
 
     gnatprove: error during generation of Global contracts
 
     '
   output_parser: GNATprove_Parser
-  timestamp: '2023-04-18T12:08:05.416000'
+  timestamp: '2023-04-18T18:13:09.251000'

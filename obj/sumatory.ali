@@ -1,0 +1,20 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U sumatory%b		sumatory.adb		90aeefd1 NE OO SU IL
+
+D sumatory.adb		20230418045056 90aeefd1 sumatory%b
+D system.ads		20210520051136 2ffa5114 system%s
+G a e
+G c Z b b [sumatory standard 1 10 none]
+X 1 sumatory.adb
+1V10*sumatory{integer} 1b10 1>19 1>21 4l5 4t13
+1i19 a{integer} 3r11
+1i21 b{integer} 3r13
+
