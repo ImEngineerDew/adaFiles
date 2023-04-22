@@ -50,7 +50,7 @@ procedure imengineerdew is
       --  Check if the values of A and B are inside or outside
       if i >= A'First and i <= A'Last and i >= B'First and i <= B'Last then
          Put (Integer'Image ((A (i) + B (i))));
-         resultSum (A, B, i + 1); 
+         resultSum (A, B, i + 1);
       end if;
    end resultSum;
 --  This is the public static void main(String args[]) {} of Ada
