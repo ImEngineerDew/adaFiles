@@ -1,34 +1,38 @@
 <?xml version="1.0"?>
-<Locations>
+<Locations >
   <Project>
-    <vfs_file />
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_file>
-    </file_marker>
-    <file_marker column=" 23" line=" 4" >
-      <vfs_project />
-      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_file>
-    </file_marker>
+    <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_file>
     <file_marker column=" 1" line=" 5" >
-      <vfs_project />
+      <vfs_project>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_project>
       <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\src\sumab.spark</vfs_file>
     </file_marker>
     <file_marker column=" 14" line=" 4" >
-      <vfs_project />
+      <vfs_project>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_project>
       <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\src\sumatory.adb</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_file>
+      <vfs_project>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\src\sumatory.adb</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 5" >
-      <vfs_project />
+      <vfs_project>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_project>
       <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\src\sumab.spark</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 34" line=" 5" >
-      <vfs_project />
-      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\src\sumatory.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5" >
+      <vfs_project>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\src\sumab.spark</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\src\test002.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 15" >
+      <vfs_project>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\sumab.gpr</vfs_project>
+      <vfs_file>C:\Users\User\Documents\Developer\practicas\GitFolder\adaFiles\src\test002.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>

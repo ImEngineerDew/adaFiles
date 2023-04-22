@@ -1,0 +1,21 @@
+V "GNAT Lib v12"
+P ZX
+
+RN
+RV NO_FLOATING_POINT
+
+U exchange%b		exchange.adb		b7c59b84 NE OO PK IL
+
+U exchange%s		exchange.ads		62dc8cc7 EE NE OO PK IL
+
+D exchange.ads		20230418232755 62dc8cc7 exchange%s
+D exchange.adb		20230418232643 d5191743 exchange%b
+D system.ads		20220506073056 a2da961d system%s
+G a e
+G c Z s b [exchange exchange 3 13 none]
+X 1 exchange.ads
+1K9*exchange 5l5 5e13 2|1b14 8l5 8t13
+3U13*Exchange 3=22 3=24 2|3b13 7l7 7t15
+3f22 X{float} 2|3b22 5m9 6r13
+3f24 Y{float} 2|3b25 5r13 6m9
+

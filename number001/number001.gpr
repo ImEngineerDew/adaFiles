@@ -1,0 +1,8 @@
+project number001 is
+
+   for Source_Dirs use ("number001");
+   for Object_Dir use "obj";
+   for Main use ("imengineerdew.adb");
+
+end number001;
+
