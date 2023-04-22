@@ -1,9 +1,7 @@
 with Ada.Text_IO; use Ada.Text_IO;
 with Ada.Integer_Text_IO; use Ada.Integer_Text_IO;
 
-procedure imengineerdew
-   with SPARK_MODE => OFF
-is
+procedure imengineerdew is
    type ArrayIntegers is array (Integer range <>) of Integer;
    --  Define the methods (proccedure = void, function = return a value)
    procedure readVector (A, B : in out ArrayIntegers; i : in Integer);
@@ -52,7 +50,7 @@ is
       --  Check if the values of A and B are inside or outside
       if i >= A'First and i <= A'Last and i >= B'First and i <= B'Last then
          Put (Integer'Image ((A (i) + B (i))));
-         resultSum (A, B, i + 1);
+         resultSum (A, B, i + 1); 
       end if;
    end resultSum;
 --  This is the public static void main(String args[]) {} of Ada
