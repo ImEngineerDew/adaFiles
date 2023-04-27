@@ -1,0 +1,25 @@
+type: code
+user-name: imengineerdew
+stage: challenges
+complexity: 5.86
+others:
+  in: 10
+  out: 49
+  totals: 59
+score:
+  initial: 65.62
+  final: 71.48
+  progress: 5.86
+global-rank:
+  initial: 6669
+  final: 6669
+  progress: 0
+national-rank:
+  initial: 431
+  final: 431
+  progress: 0
+total-time: 19.00
+effort: 1.45
+productivity: 4.04
+date: "2023-04-27 15:25:00Z"
+path: imengineerdew.adb
