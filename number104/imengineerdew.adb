@@ -17,8 +17,6 @@ is
    function vectorSize return Integer is
       Size : Integer;
    begin
-      --  A message box that indicates the size of your array
-      Put ("Please write the size of your array: ");
       Get (Size);
       return Size;
    end vectorSize;
